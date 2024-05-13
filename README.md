@@ -13,7 +13,7 @@ Explore the available API endpoints using a tool like Swagger or Postman.
 Development Environment Setup
 To set up your development environment for the Candidate Information API, follow these steps:
 
-Install .NET SDK version X.X.X or later.
+Install .NET SDK version 8.0.X or later.
 Install Visual Studio or Visual Studio Code.
 Set up a local SQL Server instance or connect to an existing one. Update the connection string in the appsettings.json file accordingly.
 Open the solution file (CandidateInformationAPI.sln) in your preferred IDE.
@@ -29,5 +29,3 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your changes to your fork.
 Submit a pull request to the main branch of the main repository.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
